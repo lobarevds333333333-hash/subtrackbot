@@ -1,0 +1,12 @@
+# runtime-данные и артефакты
+subscriptions.db
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# черновая версия скринкаста (в репозитории только финальная)
+screencast_raw.mp4
+
+# секреты
+.env
